@@ -25,7 +25,8 @@ La Cafetería Nanacao está abriendo una nueva sucursal en el centro de la ciuda
 
 1. **Clonar el repositorio**:
 
-   git clone https://github.com/tu-usuario/cafeteria-nanacao.git
+   git clone https://github.com/C0smar/Desafio7_node.git
+   
    cd cafeteria-nanacao
 
 2.Instalar dependencias:
